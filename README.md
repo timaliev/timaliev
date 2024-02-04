@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I have 30+ years of IT experience.
-My current spheres of interest is:
+My current spheres of interest are:
 * DevOps / Everything As a Code
 * Data Analysis / Big Data / MDM/DMP
 
