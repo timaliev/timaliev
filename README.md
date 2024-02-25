@@ -19,4 +19,4 @@ My current spheres of interest are:
 * DevOps / Everything As a Code
 * Data Analysis / Big Data / MDM/DMP
 
-[SSH](https://github.com/timaliev.keys), age [age1dp5w028hlxnegr6mqkfnvyqdd9e6pmzcflexcurw2sgszvrfnp5svkxq0a]
+[SSH](https://github.com/timaliev.keys), [age](https://github.com/timaliev/configit/blob/Darwin-23.2.0-arm64/.config/age/pub.txt) [age1dp5w028hlxnegr6mqkfnvyqdd9e6pmzcflexcurw2sgszvrfnp5svkxq0a]
